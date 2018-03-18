@@ -58,11 +58,11 @@ div{
 }
 
 .aboutcontainer{
-    background-color: darkseagreen
+    
     max-width: 920px;
-    margin-left: auto;
-    margin-right: auto;   
+    margin: auto; 
     margin-top: 10px
+    
 }
 
 .about{
@@ -71,4 +71,11 @@ div{
     color: white;
     font-size: 3rem;
     font-weight: bold;
+    margin-left: 200px
+}
+
+.aboutbackground{
+    background-color: darkseagreen
+    width: 920px;
+    height: 200px
 }
